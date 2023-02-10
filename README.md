@@ -7,7 +7,7 @@
 A list of selected and curated information dedicated to Legal Large Language Models (LLMs) and Generative Pre-trained Transformers (GPTs). 
 
 
-![Logo](/images/unsplashmainimage.png)
+![Logo](/images/unsplashmainimage_gpts.png)
 
 Photo by [Brett Jordan](https://unsplash.com/@brett_jordan) on [Unsplash](https://unsplash.com/photos/5L0R8ZqPZHk)  
 
