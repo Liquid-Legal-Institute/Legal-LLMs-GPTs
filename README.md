@@ -1,10 +1,10 @@
-# Legal Text Analytics
+# Legal Large Language Models (LLMs) and Generative Pre-trained Transformers (GPTs)
 [![LTA](https://img.shields.io/badge/CLP-Ecosystem-blue?style=flat-square)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
 [![LTA](https://img.shields.io/badge/CLP-Code-red?style=flat-square)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
 [![LTA](https://img.shields.io/badge/CLP-Community-orange?style=flat-square)](https://github.com/Liquid-Legal-Institute/Common-Legal-Platform)
 [![LTA](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-A list of selected resources, methods, and tools dedicated to Legal Text Analytics. 
+A list of selected and curated information dedicated to Legal Large Language Models (LLMs) and Generative Pre-trained Transformers (GPTs). 
 
 
 ![Logo](/images/unsplashmainimage.png)
@@ -25,15 +25,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Software (interfaces)](#software-interfaces)
 * [Research Groups and Labs](#research-groups-labs-and-communities)
 * [Tutorials](#tutorials)
-<!---* [Conferences](#conferences)--->
-<!---* [Tutorials and Online Courses](#tutorials)
-  * [Reading Content](#reading-content)
-  * [Videos and Courses](#videos-and-online-courses)
-  * [Books](#books)--->
-<!---* [LTA in German](#nlp-in-korean)
-* [LTA in English](#nlp-in-arabic)
-* [LTA in Chinese](#nlp-in-chinese)
-* [LTA in French](#nlp-in-german)--->
 * [Credits](#credits)
 
 ## Selected Tasks and Use Cases
