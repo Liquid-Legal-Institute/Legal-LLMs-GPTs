@@ -20,7 +20,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Tutorials](#tutorials)
 * [ChatGPT Detection](#chatgpt-detection)
 * [Foundations of Legal Text Analytics](#foundations-of-legal-text-analytics)
-* [Selected Technical Papers](#selected-technical-papers)
+* [Selected Articles on Technological Aspects](#selected-articles-on-technological-aspects)
+* [Selected Articles on Legal and Regulatory Aspects](#selected-articles-on-legal-and-regulatory-aspects)
 * [Credits](#credits)
 
 ## Large Language Models and GPTs for Legal
@@ -51,11 +52,15 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/abs/2301.07597)
 - [ChatGPT-Comparison-Detection Project](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
 
-## Selected Technical Papers
+## Selected Articles on Technological Aspects
 [Back to Top](#contents)
 - [On the Explainability of Natural Language Processing Deep Models](https://arxiv.org/abs/2210.06929)
 - [Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey](https://arxiv.org/abs/2111.01243)
 
+## Selected Articles on Legal and Regulatory Aspects
+[Back to Top](#contents)
+- [Regulating ChatGPT and other Large Generative AI Models](https://arxiv.org/abs/2302.02337)
+- [Law, Policy, & AI Update: China Requires AI Watermarks, ChatGPT Won’t Make it to U.S. Courtrooms](https://hai.stanford.edu/news/law-policy-ai-update-china-requires-ai-watermarks-chatgpt-wont-make-it-us-courtrooms)
 
 ## Foundations of Legal Text Analytics
 [Back to Top](#contents)
