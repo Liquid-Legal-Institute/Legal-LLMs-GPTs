@@ -16,7 +16,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Contents
 
-* [Large Language Models and GPT](#large-language-models-and-gpts-for-legal)
+* [Large Language Models and GPT for Legal](#large-language-models-and-gpts-for-legal)
 * [Tutorials](#tutorials)
 * [ChatGPT Detection](#chatgpt-detection)
 * [Foundations of Legal Text Analytics](#foundations-of-legal-text-analytics)
@@ -38,6 +38,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [GPT Takes the Bar Exam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4314839)
 - [Large Language Models as Corporate Lobbyists](https://github.com/JohnNay/llm-lobbyist)
 - [Language Models are Changing AI. We Need to Understand Them](https://hai.stanford.edu/news/language-models-are-changing-ai-we-need-understand-them)
+- [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 
 ## Tutorials
 [Back to Top](#contents)
