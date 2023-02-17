@@ -26,12 +26,15 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Large Language Models and GPTs for Legal
 [Back to Top](#contents)
+- [Language models are few-shot learners: Train GPT-3 - an autoregressive language model with 175 billion parameters](https://dl.acm.org/doi/abs/10.5555/3495724.3495883)
+  - [Supplemental Material](https://dl.acm.org/action/downloadSupplement?doi=10.5555%2F3495724.3495883&file=3495724.3495883_supp.pdf)
 - [ChatGPT at OpenAI](https://chat.openai.com/chat) 
   - [Examples](https://beta.openai.com/examples)
   - [Documentation](https://beta.openai.com/docs/introduction)
   - [Pricing](https://openai.com/api/pricing)
   - [Fine-tuning ChatGPT](https://beta.openai.com/docs/api-reference/fine-tunes/create)
   - [Sketch summarizing ChatGPT](https://media.licdn.com/dms/image/C4D22AQFgVliRJ4RsBQ/feedshare-shrink_2048_1536/0/1674467662862?e=1677715200&v=beta&t=G1gCE8h2iA48210Ywl-TutuTGMjYM1euhbPXomp08Ws)
+- [Transformer models: an introduction and catalog](https://arxiv.org/pdf/2302.07730.pdf)
 - [Large Language Models: Report by KI Bundesverband](https://leam.ai/wp-content/uploads/2023/01/LEAM-MBS_KIBV_webversion_mitAnhang_V2_2023.pdf)
 - [Large Language Models: Hugging Face Report](https://huggingface.co/blog/large-language-models)
 - [Report on Limitations of ChatGPT](https://medium.com/@asarav/the-limitations-of-chat-gpt-8b73f5859bb4)
@@ -42,6 +45,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Tutorials
 [Back to Top](#contents)
+- [OpenAI Cookbook shares example code for accomplishing common tasks with the OpenAI API](https://github.com/openai/openai-cookbook)  
 - [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 - [Beginner’s Guide to the GPT-3 Model](https://towardsdatascience.com/beginners-guide-to-the-gpt-3-model-2daad7fc335a)
 - [Using ChatGPT in Python](https://medium.com/geekculture/using-chatgpt-in-python-eeaed9847e72)
