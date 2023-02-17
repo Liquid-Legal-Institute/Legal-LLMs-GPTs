@@ -67,6 +67,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Regulating ChatGPT and other Large Generative AI Models](https://arxiv.org/abs/2302.02337)
 - [Law, Policy, & AI Update: China Requires AI Watermarks, ChatGPT Won’t Make it to U.S. Courtrooms](https://hai.stanford.edu/news/law-policy-ai-update-china-requires-ai-watermarks-chatgpt-wont-make-it-us-courtrooms)
 
+
 ## Foundations of Legal Text Analytics
 [Back to Top](#contents)
 
