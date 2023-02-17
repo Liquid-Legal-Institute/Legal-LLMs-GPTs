@@ -64,6 +64,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Selected Articles on Legal and Regulatory Aspects
 [Back to Top](#contents)
+- [Auditing Large Language Models: A Three-Layered Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4361607)
 - [Regulating ChatGPT and other Large Generative AI Models](https://arxiv.org/abs/2302.02337)
 - [Law, Policy, & AI Update: China Requires AI Watermarks, ChatGPT Won’t Make it to U.S. Courtrooms](https://hai.stanford.edu/news/law-policy-ai-update-china-requires-ai-watermarks-chatgpt-wont-make-it-us-courtrooms)
 
