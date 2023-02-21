@@ -44,6 +44,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Legal Prompt Engineering for Multilingual Legal Judgement Prediction](https://arxiv.org/abs/2212.02199)
 - [Language Models are Changing AI. We Need to Understand Them](https://hai.stanford.edu/news/language-models-are-changing-ai-we-need-understand-them)
 - [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
+- [Stephen Wolfram: What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 ## Tutorials
 [Back to Top](#contents)
