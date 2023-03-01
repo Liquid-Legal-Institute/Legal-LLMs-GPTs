@@ -53,6 +53,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Mastering the GPT-3 API in Python](https://medium.datadriveninvestor.com/mastering-chatgpt-in-python-a53814e834b0)
 - [ChatGPT CLI and Python Wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
 - [Building GPT-3 applications — beyond the prompt](https://medium.com/data-science-at-microsoft/building-gpt-3-applications-beyond-the-prompt-504140835560)
+- [Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities](https://github.com/microsoft/unilm)
 
 ## Prompt Engineering
 [Back to Top](#contents)
