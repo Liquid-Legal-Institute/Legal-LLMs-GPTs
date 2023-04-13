@@ -58,11 +58,14 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Prompt Engineering
 [Back to Top](#contents)
+- [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
 - [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain)
 - [So you want to be a prompt engineer: Critical careers of the future](https://venturebeat.com/ai/so-you-want-to-be-a-prompt-engineer-critical-careers-of-the-future/)
+- [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
+- [More than 15k prompts: open source dataset of instruction-following records](https://github.com/databrickslabs/dolly/tree/master/data)
 
 ## ChatGPT Detection
 [Back to Top](#contents)
